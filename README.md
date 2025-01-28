@@ -22,13 +22,13 @@ FreeRTOS is a lightweight, real-time operating system designed for microcontroll
 
 ## Projects
 
-### 1. Task Creation Example ([FreeRTOS_task_creation.ino](FreeRTOS_task_creation.ino))
+### 1. Task Creation Example ([FreeRTOS_task_creation.ino](FreeRTOS_task_creation/FreeRTOS_task_creation.ino))
 This example demonstrates how to create multiple tasks with FreeRTOS. Key features include:
 - **TaskBlink1:** Controls an LED on pin 8 to blink at a 200ms interval.
 - **TaskBlink2:** Controls an LED on pin 7 to blink at a 300ms interval.
 - **TaskPrint:** Prints a counter value to the serial monitor every 500ms.
 
-### 2. Queue Handling Example ([FreeRTOS_queues.ino](FreeRTOS_queues.ino))
+### 2. Queue Handling Example ([FreeRTOS_queues.ino](FreeRTOS_queues/FreeRTOS_queues.ino))
 This example showcases inter-task communication using queues. Key features include:
 - Reading light intensity values from an LDR sensor connected to `A0`.
 - Sending the sensor readings to a queue.
@@ -70,9 +70,6 @@ Feel free to fork this repository, open issues, or submit pull requests to add m
 This repository is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
 
 ---
-
-Happy coding!
-
 
 
 
