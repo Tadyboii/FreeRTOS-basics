@@ -4,16 +4,6 @@ This repository showcases my journey learning FreeRTOS as part of my Real-Time S
 
 ---
 
-## Table of Contents
-
-1. [Overview](#overview)
-2. [Projects](#projects)
-3. [Requirements](#requirements)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-
----
-
 ## Overview
 
 FreeRTOS is a lightweight, real-time operating system designed for microcontrollers. This repository explores its capabilities through practical examples, focusing on task scheduling and inter-task communication.
@@ -33,16 +23,6 @@ This example showcases inter-task communication using queues. Key features inclu
 - Reading light intensity values from an LDR sensor connected to `A0`.
 - Sending the sensor readings to a queue.
 - Displaying the readings on an LCD using the LiquidCrystal_I2C library.
-
----
-
-## Requirements
-
-To run these examples, you'll need:
-- An Arduino board (e.g., Uno, Mega, Nano).
-- The [Arduino FreeRTOS library](https://github.com/feilipu/Arduino-FreeRTOS-library).
-- An LDR sensor (for the Queue Handling example).
-- An LCD display with I2C interface (for the Queue Handling example).
 
 ---
 
