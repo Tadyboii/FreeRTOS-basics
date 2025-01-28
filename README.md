@@ -18,7 +18,7 @@ This example demonstrates how to create multiple tasks with FreeRTOS. Key featur
 - **TaskBlink2:** Controls an LED on pin 7 to blink at a 300ms interval.
 - **TaskPrint:** Prints a counter value to the serial monitor every 500ms.
   
-**Demo:**
+## Demo
 ![InAction](https://github.com/Tadyboii/FreeRTOS-basics/blob/main/ac1.gif)
 
 ### 2. Queue Handling Example ([FreeRTOS_queues.ino](FreeRTOS_queues/FreeRTOS_queues.ino))
@@ -26,6 +26,9 @@ This example showcases inter-task communication using queues. Key features inclu
 - Reading light intensity values from an LDR sensor connected to `A0`.
 - Sending the sensor readings to a queue.
 - Displaying the readings on an LCD using the LiquidCrystal_I2C library.
+
+## Demo
+![InAction](https://github.com/Tadyboii/FreeRTOS-basics/blob/main/ac2.gif)
 
 ---
 
