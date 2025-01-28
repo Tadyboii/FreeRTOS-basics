@@ -53,7 +53,7 @@ Feel free to fork this repository, open issues, or submit pull requests to add m
 
 ## License
 
-This repository is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
+This repository is licensed under the MIT License. See [LICENSE](LICENSE.txt) for more details.
 
 ---
 
