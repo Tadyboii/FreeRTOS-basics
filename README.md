@@ -28,7 +28,7 @@ This example showcases inter-task communication using queues. Key features inclu
 - Displaying the readings on an LCD using the LiquidCrystal_I2C library.
 
 ## Demo
-![InAction](https://github.com/Tadyboii/FreeRTOS-basics/blob/main/ac2.gif)
+![InAction](https://github.com/Tadyboii/FreeRTOS-basics/blob/main/act2.gif)
 
 ---
 
