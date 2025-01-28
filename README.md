@@ -36,7 +36,7 @@ This example showcases inter-task communication using queues. Key features inclu
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/freertos-learning.git
+   git clone https://github.com/Tadyboii/FreeRTOS-basics.git
    ```
 2. Open the desired `.ino` file in the Arduino IDE.
 3. Install the required libraries via the Arduino Library Manager.
